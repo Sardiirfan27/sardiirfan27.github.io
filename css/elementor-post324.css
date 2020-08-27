@@ -1,0 +1,41 @@
+.elementor-324
+  .elementor-element.elementor-element-b3cb20f:not(.elementor-motion-effects-element-type-background),
+.elementor-324
+  .elementor-element.elementor-element-b3cb20f
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: rgba(35, 164, 85, 0);
+}
+.elementor-324 .elementor-element.elementor-element-b3cb20f {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-324
+  .elementor-element.elementor-element-b3cb20f
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-324 .elementor-element.elementor-element-0d9e1a0 {
+  width: 100%;
+  flex: 1;
+}
+.elementor-324
+  .elementor-element.elementor-element-0d9e1a0
+  .elementor-widget-wrap {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+#elementor-popup-modal-324 .dialog-message {
+  width: 80vw;
+  height: auto;
+}
+#elementor-popup-modal-324 {
+  justify-content: center;
+  align-items: center;
+  pointer-events: all;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+#elementor-popup-modal-324 .dialog-widget-content {
+  animation-duration: 1s;
+  box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
